@@ -19,7 +19,7 @@
 
 - 🎓 Studying **Computational Mathematics** at UFMG (*Federal University of Minas Gerais*).
 - 💡 Passionate about **Algorithms, Competitive Programming**, and applying mathematical modeling to complex real-world problems.
-- 🚀 Currently working as a **Software Development Trainee at iJunior UFMG**, focusing on Web Development.
+- 🚀 Currently working as a **Full Stack Software Developer at iJunior UFMG**, focusing on Web Development.
 - 🎯 Long-term goal: Transitioning and deepening my expertise toward **Machine Learning & Artificial Intelligence**.
 - 💬 Ask me about: Discrete math, logic, web stack, or competitive programming!
 
